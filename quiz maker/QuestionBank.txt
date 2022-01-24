@@ -1,0 +1,11 @@
+Which of the following is a string? 
+What does the modulo(%) operator do?
+What are try and except blocks usually used for?
+Which of the following is a float?
+Why is "if __name__ == '__main__'" necessary in modules?
+How do you create the most efficient solution for printing something 100 times?
+What is included in a typical doc string?
+What data type do True and False fall under?
+Which of the following functions picks a random integer from a range and is inclusive of the starting number?
+How do you access the randomizing functions?
+What is the main use of the print() function?

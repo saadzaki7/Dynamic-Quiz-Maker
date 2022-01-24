@@ -1,0 +1,44 @@
+(A)12
+(B)782.0
+(C)"String?"
+(D)3.14
+(A)Finds the remainder after the division of two values.
+(B)Floor division.
+(C)Percentage of a specified total.
+(D)The number of lines in the program
+(A)Organizing code
+(B)Error Control
+(C)Finding logical flaws of code
+(D)Creating new functions
+(A)99.90
+(B)667
+(C)0
+(D)"Float?"
+(A)Ensures that main function does not run when the code is imported.
+(B)Replaces the main() functions
+(C)Error control for the main() function
+(D)Improves readability
+(A)Use a while loop
+(B)Use a for loop
+(C)Use nested if conditions
+(D)Print something 100 times
+(A)Arguments
+(B)Returns
+(C)Summary of what the function does
+(D)All of the above
+(A)integer
+(B)float
+(C)boolean
+(D)string
+(A)random.randint()
+(B)random.randrange()
+(C)Both
+(D)None of the above
+(A)import math
+(B)import python
+(C)import random
+(D)import randomizor
+(A)Printing a document through specified printer.
+(B)Outputing a specified message to the program.
+(C)Saving a specified message in memory. 
+(D)Identifying the type of a specific message (int/float/str).
